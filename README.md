@@ -1,1 +1,1 @@
-# This is my first creted while started learning GIT.!
+# This is my first git created while started learning GIT.!
